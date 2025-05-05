@@ -1,5 +1,5 @@
 import * as Z from "zod";
-export const signupSchema = Z
+export const signinSchema = Z
 .object({
       identifier: Z
       .string()
