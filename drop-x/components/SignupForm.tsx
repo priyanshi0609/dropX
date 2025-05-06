@@ -12,8 +12,6 @@ import {Button} from "@heroui/button"
 import {Divider} from "@heroui/divider"
 import { Input } from "@heroui/input";
 import Link from "next/link";
-
-
 import {
     Mail,
     Lock,
@@ -336,5 +334,5 @@ export default function SignupForm() {
 
 
 
-}
+
 

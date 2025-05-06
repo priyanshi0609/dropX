@@ -1,3 +1,5 @@
+//help to connect with DB
+
 import { drizzle } from 'drizzle-orm/neon-http';
 import {neon} from "@neondatabase/serverless";
 
