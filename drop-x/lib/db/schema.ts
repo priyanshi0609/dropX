@@ -15,7 +15,7 @@ export const files = pgTable("files", {
     thumbnailUrl:text("thumbnailUrl"), //url to access thumbnail
     
     //ownership information
-    userid:text("userid").notNull(), //user id of the owner
+    userId:text("userid").notNull(), //user id of the owner
     parentId:uuid("parent_Id"), //parent folder is (null for root items)
 
     //file/folder flags
