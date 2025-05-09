@@ -18,6 +18,7 @@
     "@heroui/button": "^2.2.19",
     "@heroui/card": "^2.2.18",
     "@heroui/divider": "^2.2.13",
+    "@heroui/dropdown": "^2.3.19",
     "@heroui/input": "^2.4.19",
     "@heroui/system": "^2.4.15",
     "@heroui/theme": "^2.4.15",
